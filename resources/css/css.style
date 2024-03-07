@@ -1,3 +1,4 @@
 body {
-    background-color: black
-    }
+    background-color: black;
+    color: white; /* Optionally, set text color to white for better contrast */
+}

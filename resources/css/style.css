@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+p {
+    text-align: center;
+    color: gray;
+}
+
+.h1-1 {
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    font-weight: normal;
+}
+
+.h1-2 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+}
+
+.hypertext {
+    color: aquamarine;
+    font-size: 16;
+    text-align: center;
+}
+
+.right-align {
+    text-align: right;
+}
+
+.center-image {
+    display: block;
+    margin: auto;
+    padding: 15px;
+}
+
+.center-video {
+    display: block;
+    margin: auto;
+}
+
+.p-1 {
+    font-size: 21px;
+}
